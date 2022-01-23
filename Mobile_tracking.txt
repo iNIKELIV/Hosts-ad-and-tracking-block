@@ -1,6 +1,7 @@
 # Last updated 23.01.2022
 #
-# My own list of ads and spyware domains used for entware based (dnsmasq) adblocking
+# My own list of ads and spyware domains used for entware based (dnsmasq) adblocking. 
+# Source is iOS app privacy report from my devices.
 #
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 app-measurement.com
