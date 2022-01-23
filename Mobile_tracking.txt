@@ -21,3 +21,4 @@
 0.0.0.0 sentry.io
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 in.appcenter.ms
+0.0.0.0 crashlyticsreports-pa.googleapis.com
