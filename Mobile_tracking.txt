@@ -1,6 +1,6 @@
 # Last updated 23.01.2022
 #
-#My own list of mobile spyware domains
+#My own list of mobile spyware domains used for entware based (dnsmasq) adblocking
 #
 #
 0.0.0.0 inappcheck.itunes.apple.com
