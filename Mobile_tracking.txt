@@ -18,3 +18,4 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 googletagservices.com
 0.0.0.0 sentry.io
+0.0.0.0 startup.mobile.yandex.net
