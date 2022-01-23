@@ -2,8 +2,7 @@
 #
 #My own list of mobile spyware domains used for entware based (dnsmasq) adblocking
 #
-#
-0.0.0.0 inappcheck.itunes.apple.com
+#0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 app-measurement.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
