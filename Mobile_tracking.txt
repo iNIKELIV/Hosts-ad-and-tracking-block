@@ -1,6 +1,6 @@
 # Last updated 23.01.2022
 #
-#My own list of mobile spyware domains used for entware based (dnsmasq) adblocking
+#My own list of ads and spyware domains used for entware based (dnsmasq) adblocking
 #
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 app-measurement.com
@@ -17,3 +17,5 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 googletagservices.com
+0.0.0.0 browser.sentry-cdn.com
+0.0.0.0 ad.lgappstv.com
