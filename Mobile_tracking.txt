@@ -17,5 +17,4 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 googletagservices.com
-0.0.0.0 ad.lgappstv.com
-0.0.0.0 centry.io
+0.0.0.0 sentry.io
