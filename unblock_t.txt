@@ -65,9 +65,6 @@ flibusta.site
 bitcoin.org
 edem.tv
 4pna.com
-xhamster.com
-ru.xhamster.com
-ru.stripchat.com
 
 ###Проверка Tor
 check.torproject.org
