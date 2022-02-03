@@ -3,6 +3,7 @@
 # My own list of ads and spyware domains used for entware based (dnsmasq) adblocking. 
 # Source is iOS app privacy report from my devices.
 #
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adservice.google.com
 0.0.0.0 app-measurement.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
@@ -24,3 +25,4 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stats.g.doubleclick.net
+
