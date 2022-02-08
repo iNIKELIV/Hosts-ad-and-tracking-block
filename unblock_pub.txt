@@ -1,7 +1,8 @@
-###Торрент-трекеры
+#Торренты
 rutracker.org
 rutor.info
 rutor.is
+new-rutor.org
 mega-tor.org
 kinozal.tv
 nnm-club.me
@@ -17,26 +18,27 @@ rustorka.com
 uniongang.tv
 fast-torrent.ru
 thepiratebay.org
-
-###Каталоги медиаконтента для программ
+#
+#Софт
 rezka.ag
 hdrezka.ag
 hdrezka.me
 filmix.co
 filmix.cc
 seasonvar.ru
-
-###Книги
+#
+#Книги
 lib.rus.ec
 flibusta.is
 flibs.me
 flisland.net
 flibusta.site
-
-###Разное
+#
+#Прочее
 bitcoin.org
 edem.tv
 4pna.com
-
-###Проверка Tor
+#
+#Проверка Tor
 check.torproject.org
+#
