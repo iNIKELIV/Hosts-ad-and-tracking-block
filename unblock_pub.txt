@@ -35,6 +35,8 @@ flibusta.site
 #Новости и соцсети
 bbc.com
 twitter.com
+facebook.com
+m.facebook.com
 
 #Прочее
 bitcoin.org
