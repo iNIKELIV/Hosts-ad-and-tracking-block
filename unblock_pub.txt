@@ -37,6 +37,7 @@ bbc.com
 twitter.com
 facebook.com
 m.facebook.com
+instagram.com
 
 #Прочее
 bitcoin.org
