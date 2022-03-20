@@ -35,10 +35,14 @@ static.xx.fbcdn.net
 scontent.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
 scontent-arn2-2.xx.fbcdn.net
+scontent-amt2-1.xx.fbcdn.net
+scontent-ams4-1.xx.fbcdn.net
 m.facebook.com
 instagram.com
 scontent-arn2-1.cdninstagram.com
 scontent-arn2-2.cdninstagram.com
+scontent-ams4-1.cdninstagram.com
+scontent-amt2-1.cdninstagram.com
 
 #Прочее
 bitcoin.org
