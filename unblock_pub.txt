@@ -32,6 +32,7 @@ dw.com
 twitter.com
 facebook.com
 static.xx.fbcdn.net
+scontent.xx.fbcdn.net
 scontent-arn2-1.xx.fbcdn.net
 scontent-arn2-2.xx.fbcdn.net
 m.facebook.com
