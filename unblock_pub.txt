@@ -35,6 +35,7 @@ static.xx.fbcdn.net
 scontent-arn2-2.xx.fbcdn.net
 m.facebook.com
 instagram.com
+scontent-arn2-2.cdninstagram.com
 
 #Прочее
 bitcoin.org
