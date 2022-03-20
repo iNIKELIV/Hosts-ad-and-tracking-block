@@ -10,6 +10,6 @@ Mobile_tracking.txt includes domains to be blocked
 
 hostslists.txt includes links to raw public lists of ads domains plus my own list Mobile_tracking.txt
 
-unblock_update.sh was adjusted to download public list (unblock_pub.txt), combine it with private list (only stored in router directory opt/etc/unblock_priv.txt if to unblock domains if one dont want to share their names) and pass it to original unblock_dnsmasq.sh
+unblock_update.sh was adjusted to download public list (unblock_pub.txt), combine it with private list (only stored in router directory opt/etc/unblock_priv.txt to unblock some private domains if I don't want to share their names) and pass it to original unblock_dnsmasq.sh
 
 adblock_update.sh was adjusted to download lists of domains.
