@@ -31,6 +31,7 @@ bbc.com
 dw.com
 twitter.com
 facebook.com
+static.xx.fbcdn.net
 m.facebook.com
 instagram.com
 
