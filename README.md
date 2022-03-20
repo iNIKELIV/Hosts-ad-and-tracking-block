@@ -2,7 +2,7 @@
 
 My addition to automatic domain unblocking solution (using tor) and blocking ads on router side (https://habr.com/ru/post/428992)
 
-Made my lists appear online so I can edit them from anywhere using web browser and then all my routers automaticly get them on daily basis using cron.
+Made my lists appear online so I can edit them from anywhere using web browser and then all my routers automatically get them on daily basis using cron.
 
 unblock_pub.txt inculdes domains to be unblocked (routed through tor)
 
