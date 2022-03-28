@@ -30,6 +30,7 @@ flibusta.site
 bbc.com
 dw.com
 twitter.com
+api.twitter.com
 facebook.com
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
