@@ -30,12 +30,14 @@ flibusta.site
 bbc.com
 dw.com
 twitter.com
+pbs.twimg.com
 api.twitter.com
 facebook.com
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
 m.facebook.com
 instagram.com
+yt3.ggpht.com
 
 #Прочее
 bitcoin.org
