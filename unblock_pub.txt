@@ -45,7 +45,7 @@ edem.tv
 4pna.com
 rainviewer.com
 wunderground.com
-denuvo.net
+planespotters.net
 
 #Tor
 torproject.org
