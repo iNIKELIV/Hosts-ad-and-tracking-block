@@ -1,4 +1,2 @@
 https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/Mobile_tracking.txt
-#https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt
-#https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardTracking.txt
 https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileSpyware.txt
