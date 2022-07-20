@@ -30,14 +30,9 @@ flibusta.site
 bbc.com
 dw.com
 twitter.com
-pbs.twimg.com
-api.twitter.com
 facebook.com
-static.xx.fbcdn.net
-scontent.xx.fbcdn.net
 m.facebook.com
 instagram.com
-yt3.ggpht.com
 
 #Прочее
 bitcoin.org
@@ -46,10 +41,18 @@ edem.tv
 rainviewer.com
 wunderground.com
 denuvo.net
+web445.default-host.net
 
 #Железо
 displaymate.com
 planespotters.net
+
+#контентсерверы
+static.xx.fbcdn.net
+scontent.xx.fbcdn.net
+yt3.ggpht.com
+pbs.twimg.com
+api.twitter.com
 
 #Tor
 torproject.org
