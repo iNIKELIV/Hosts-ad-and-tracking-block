@@ -40,8 +40,6 @@ edem.tv
 4pna.com
 rainviewer.com
 wunderground.com
-denuvo.net
-web445.default-host.net
 
 #Железо
 displaymate.com
