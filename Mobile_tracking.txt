@@ -19,11 +19,14 @@
 0.0.0.0 in.appcenter.ms
 0.0.0.0 inappcheck.itunes.apple.com
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 sentry.io
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 tracking.ott.yandex.net
 0.0.0.0 track.onef.pro
