@@ -23,6 +23,7 @@
 0.0.0.0 launches.appsflyersdk.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 rosenberg.appmetrica.yandex.net
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 sentry.io
 0.0.0.0 ssl.google-analytics.com
