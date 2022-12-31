@@ -9,6 +9,9 @@ $lists = array(
 
 	// Mobile Tracking + Spyware
 	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
+	
+	// Adguard Tracking
+	'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
 
 	// Adguard DNS
 	'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
