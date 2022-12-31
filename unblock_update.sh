@@ -1,6 +1,6 @@
 #!/bin/sh
 
-curl -o /opt/etc/unblock_pub.txt https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/unblock_pub.txt
+curl -o /opt/etc/unblock_pub.txt https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/lists/unblock_pub.txt
 cat /opt/etc/unblock_pub.txt /opt/etc/unblock_priv.txt > /opt/etc/unblock.txt
 
 ipset flush unblock
