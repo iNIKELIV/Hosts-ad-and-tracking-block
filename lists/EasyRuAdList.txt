@@ -1,7 +1,7 @@
 # EasyRuAdList
 #
 # Converted from - https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.txt
-# Last converted - Sat, 31 Dec 2022 08:50:09 +0000
+# Last converted - Sat, 31 Dec 2022 09:28:06 +0000
 #
 
 0.0.0.0 03ab2qdorz.com
