@@ -1,5 +1,7 @@
 <?php
 
+// Original by https://github.com/r-a-y
+
 // Add our lists.
 $lists = array(
 	// Mobile Ads
