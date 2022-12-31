@@ -1,7 +1,7 @@
 # AdguardRussianfilterFP
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
-# Last converted - Sat, 31 Dec 2022 08:40:51 +0000
+# Last converted - Sat, 31 Dec 2022 08:50:08 +0000
 #
 
 0.0.0.0 flowers.moex.com
