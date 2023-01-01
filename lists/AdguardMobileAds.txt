@@ -1054,7 +1054,6 @@
 0.0.0.0 bd1.guancha.cn
 0.0.0.0 bd2.guancha.cn
 0.0.0.0 cdn.xiao7cdn.com
-0.0.0.0 alicdn.com
 0.0.0.0 e.z091u.cn
 0.0.0.0 m.sdxlglm.cn
 0.0.0.0 blog-sokuhou.com
