@@ -38,7 +38,7 @@ foreach ( $lists as $name => $list ) {
 
 	// HOSTS header.
 	
-	$hosts  = "&nbsp\n";
+	$hosts  = "&nbsp;\n";
 	$hosts  = "# {$name}\n";
 	$hosts .= "#\n";
 	$hosts .= "# Converted from - {$list}\n";
