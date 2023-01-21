@@ -153,7 +153,6 @@
 0.0.0.0 automizely-analytics.com
 0.0.0.0 ctags.cn
 0.0.0.0 gridsumdissector.com
-0.0.0.0 app-measurement.com
 0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 imp.pvnsolutions.com
