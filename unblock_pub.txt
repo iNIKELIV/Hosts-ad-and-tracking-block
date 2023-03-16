@@ -19,6 +19,7 @@ hdrezka.me
 filmix.co
 filmix.cc
 seasonvar.ru
+play.google.com
 
 #Книги
 lib.rus.ec
