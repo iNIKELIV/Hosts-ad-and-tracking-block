@@ -1,3 +1,11 @@
 #Торренты
 rutracker.org
 rutor.info
+
+#Железо
+displaymate.com
+planespotters.ne
+
+#Tor
+torproject.org
+check.torproject.org
