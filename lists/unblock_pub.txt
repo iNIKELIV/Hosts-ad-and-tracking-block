@@ -3,8 +3,6 @@ rutracker.org
 rutor.info
 
 #Прочее
-edem.tv
-stuffin.space
 patreon.com
 
 #Железо
