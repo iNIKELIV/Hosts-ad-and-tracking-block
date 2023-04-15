@@ -1,4 +1,3 @@
 https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/lists/mylist.txt
 https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/lists/AdguardTracking.txt
 https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/lists/AdguardMobileSpyware.txt
-https://raw.githubusercontent.com/iNIKELIV/Hosts-ad-and-tracking-block/main/lists/AdguardMobileAds.txt
