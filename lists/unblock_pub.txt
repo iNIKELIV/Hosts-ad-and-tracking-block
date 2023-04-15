@@ -2,6 +2,14 @@
 rutracker.org
 rutor.info
 
+#Прочее
+bitcoin.org
+edem.tv
+4pna.com
+wunderground.com
+stuffin.space
+patreon.com
+
 #Железо
 displaymate.com
 planespotters.ne
