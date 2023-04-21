@@ -1,30 +1,12 @@
 #Торренты
 rutracker.org
 rutor.info
-rutor.is
-kinozal.tv
 nnm-club.me
 nnm-club.ws
 megapeer.ru
 tapochek.net
 rustorka.com
-uniongang.tv
-fast-torrent.ru
 thepiratebay.org
-
-#Софт
-rezka.ag
-hdrezka.ag
-hdrezka.me
-filmix.co
-filmix.cc
-seasonvar.ru
-
-#Книги
-lib.rus.ec
-flibs.me
-flisland.net
-flibusta.site
 
 #Новости и соцсети
 bbc.com
@@ -50,5 +32,5 @@ pbs.twimg.com
 api.twitter.com
 
 #Tor
-torproject.org
+torproject.orgl
 check.torproject.org
