@@ -1,4 +1,3 @@
-#Торренты
 rutracker.org
 rutor.info
 nnm-club.me
@@ -6,27 +5,22 @@ tapochek.net
 rustorka.com
 thepiratebay.org
 
-#Новости и соцсети
 twitter.com
 facebook.com
 m.facebook.com
 instagram.com
 
-#Прочее
 bitcoin.org
 patreon.com
 
-#Железо
 displaymate.com
 planespotters.net
 
-#контентсерверы
 static.xx.fbcdn.net
 scontent.xx.fbcdn.net
 yt3.ggpht.com
 pbs.twimg.com
 api.twitter.com
 
-#Tor
 torproject.org
 check.torproject.org
