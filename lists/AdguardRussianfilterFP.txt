@@ -1,6 +1,6 @@
 # AdguardRussianfilterFP
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers_firstparty.txt
-# Last converted - Sat, 18 Mar 2023 12:26:52 +0000
+# Last converted - Sun, 09 Jul 2023 12:52:40 +0000
 #
 

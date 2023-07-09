@@ -1,13 +1,14 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 18 Mar 2023 12:26:51 +0000
+# Last converted - Sun, 09 Jul 2023 12:52:40 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
+0.0.0.0 receiver.habby.mobi
 0.0.0.0 pangle-b.io
 0.0.0.0 traces.sr.roku.com
 0.0.0.0 analytics.kidoz.net
@@ -64,12 +65,15 @@
 0.0.0.0 stats.grafana.org
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 telemetry.api.swiftkey.com
-0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 analytics.qoqa.ninja
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 register.appsflyersdk.com
+0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com
+0.0.0.0 dlsdk.appsflyersdk.com
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 api.appsflyer.com
@@ -78,7 +82,6 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 banner.appsflyer.com
-0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 dls2s.appsflyer.com
@@ -127,6 +130,69 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 cgicol.amap.com
+0.0.0.0 dualstack-cgicol.amap.com
+0.0.0.0 ad-api-log.colopl.jp
+0.0.0.0 metrics.macys.com
+0.0.0.0 track.ktplay.com
+0.0.0.0 preview-collector.scopely.io
+0.0.0.0 collector.scopely.io
+0.0.0.0 events.swishapps.ai
+0.0.0.0 telemetry.canva.com
+0.0.0.0 analytics.picsart.com
+0.0.0.0 payload.adadapted.com
+0.0.0.0 ec.adadapted.com
+0.0.0.0 tracking.viewlift.com
+0.0.0.0 events.prd.api.discomax.com
+0.0.0.0 events.betterhelp.com
+0.0.0.0 analytics-gateway.delta.dp.lightricks.com
+0.0.0.0 log.bloodsugars.live
+0.0.0.0 logservice1.dbankcloud.cn
+0.0.0.0 open.oneplus.net
+0.0.0.0 analytics-api.samsunghealthcn.com
+0.0.0.0 log.espn.com
+0.0.0.0 sia.internet.apps.samsung.com
+0.0.0.0 config-api.internet.apps.samsung.com
+0.0.0.0 terms.internet.apps.samsung.com
+0.0.0.0 r.apkpure.net
+0.0.0.0 analytics.zg-api.com
+0.0.0.0 creative.bidease.com
+0.0.0.0 track-resource.bidease.com
+0.0.0.0 track-us.bidease.com
+0.0.0.0 analytics-tcp.mintegral.net
+0.0.0.0 innovads-server.poster.appsinnova.com
+0.0.0.0 adtrack.xiaojukeji.com
+0.0.0.0 rtag.farmers.com
+0.0.0.0 s.pixsrvcs.com
+0.0.0.0 cws-hulu.conviva.com
+0.0.0.0 vik-analytics.moonactive.net
+0.0.0.0 report.apkpure.net
+0.0.0.0 report.iheartmedia.gbqofs.io
+0.0.0.0 grs.hicloud.com
+0.0.0.0 logbak.hicloud.com
+0.0.0.0 iot-eu-logser.realme.com
+0.0.0.0 iot-logser.realme.com
+0.0.0.0 tracking.purchasely.io
+0.0.0.0 ts.line-apps.com
+0.0.0.0 log-music-data.line-apps.com
+0.0.0.0 events-api.soundcloud.com
+0.0.0.0 biddingmax.apse.trk.rixserv.com
+0.0.0.0 profiler-collector.wshareit.com
+0.0.0.0 receiver-metis.infeng.site
+0.0.0.0 dt.beyla.site
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 accscdn.m.taobao.com
+0.0.0.0 apsrgeo.amap.com
+0.0.0.0 confe.dc.oppomobile.com
+0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 dragate.dc.oppomobile.com
+0.0.0.0 esa-reg-eup.myoppo.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 prod-analytics.royal.drmgms.com
+0.0.0.0 trckr.contextualadv.com
+0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logger.growstarry.com
 0.0.0.0 beacon-api.aliyuncs.com
@@ -208,6 +274,7 @@
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 log.estand.jp
 0.0.0.0 event-search.jorte.com
+0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 log-upload-os.hoyoverse.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 misc.api.snaptube.app
@@ -311,7 +378,6 @@
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
 0.0.0.0 api.telemetry.watchabc.go.com
-0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 analytics.rover.io
 0.0.0.0 events-collector-api.viacom.tech
 0.0.0.0 pipe.aria.microsoft.com
@@ -461,7 +527,6 @@
 0.0.0.0 cmplay.did.ijinshan.com
 0.0.0.0 tracking.i2w.io
 0.0.0.0 detect.rayjump.com
-0.0.0.0 26f396e0b71780f057be4d4af8ebe55b.com
 0.0.0.0 a.appbaqend.com
 0.0.0.0 ue.flipboard.com
 0.0.0.0 mobileapptracking.com
@@ -491,7 +556,6 @@
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
-0.0.0.0 fdplttrk.com
 0.0.0.0 tracking.trnox.com
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
@@ -500,7 +564,6 @@
 0.0.0.0 wzrkt.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
-0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 track.adform.net
 0.0.0.0 sync.adotmob.com
 0.0.0.0 logger.cloudmobi.net
@@ -593,15 +656,12 @@
 0.0.0.0 cedexis.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
-0.0.0.0 clktrk.display.io
 0.0.0.0 collector.brandify.com
 0.0.0.0 config2.mparticle.com
-0.0.0.0 counter.kingsoft.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
 0.0.0.0 demdex.net
 0.0.0.0 dsg.sc.omtrdc.net
-0.0.0.0 ep.xone.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 geoip.fotoable.net
@@ -614,11 +674,8 @@
 0.0.0.0 lhzbdvm.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.umsns.com
-0.0.0.0 logger.ntracecloud.com
 0.0.0.0 lp4.io
 0.0.0.0 metrics.adflake.com
-0.0.0.0 metrics.bestbuy.com
-0.0.0.0 metrics.macys.net
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mlb.did.ijinshan.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -642,7 +699,6 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 stat.duokanbox.com
-0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.unity3d.com
 0.0.0.0 taurus.iad.appboy.com
