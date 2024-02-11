@@ -1,7 +1,7 @@
 # EasyRuAdList
 #
 # Converted from - https://raw.githubusercontent.com/easylist/ruadlist/master/advblock/adservers.txt
-# Last converted - Sun, 09 Jul 2023 12:52:40 +0000
+# Last converted - Sun, 11 Feb 2024 09:23:33 +0000
 #
 
 0.0.0.0 03ab2qdorz.com
@@ -11,6 +11,7 @@
 0.0.0.0 0iqiehoa35.ru
 0.0.0.0 0p1ohj2f5f.ru
 0.0.0.0 0y2im3ma.ru
+0.0.0.0 11nov2022.site
 0.0.0.0 11wishes.com
 0.0.0.0 123torrent.ru
 0.0.0.0 12cpm.com
@@ -55,6 +56,7 @@
 0.0.0.0 3kbktygzr5.ru
 0.0.0.0 3lucosy.com
 0.0.0.0 3mnhfoqm.ru
+0.0.0.0 3mtr.ru
 0.0.0.0 3under.ru
 0.0.0.0 4251.tech
 0.0.0.0 4623.ru
@@ -133,13 +135,13 @@
 0.0.0.0 ad.hutor.ru
 0.0.0.0 ad.liveburst.com
 0.0.0.0 ad.luxnet.ua
-0.0.0.0 ad.moe.video
 0.0.0.0 ad.outstream.today
 0.0.0.0 ad.starlightmedia.ua
 0.0.0.0 ad.vidver.to
 0.0.0.0 ad.vo-media.ru
 0.0.0.0 ad1.ru
 0.0.0.0 ad1game.ru
+0.0.0.0 ad2the.net
 0.0.0.0 ad4sell.com
 0.0.0.0 adb01.pro
 0.0.0.0 adbean.ru
@@ -164,7 +166,6 @@
 0.0.0.0 adlabsnetworks.com
 0.0.0.0 adlabsretail.ru
 0.0.0.0 adlmerge.com
-0.0.0.0 adlook.me
 0.0.0.0 adluxe.ru
 0.0.0.0 admachina.com
 0.0.0.0 admag.pro
@@ -195,6 +196,7 @@
 0.0.0.0 ads-lot.ru
 0.0.0.0 ads-provider.com
 0.0.0.0 ads-upload.gazprom-media.net
+0.0.0.0 ads2.bid
 0.0.0.0 adsclick.ru
 0.0.0.0 adselector.ru
 0.0.0.0 adservob.com
@@ -208,6 +210,7 @@
 0.0.0.0 adsmo.ru
 0.0.0.0 adsorg.com
 0.0.0.0 adspeeker.com
+0.0.0.0 adspend.space
 0.0.0.0 adstark.com
 0.0.0.0 adsteroid.pro
 0.0.0.0 adstime.org
@@ -227,7 +230,6 @@
 0.0.0.0 adv-first.ru
 0.0.0.0 adv-target.ru
 0.0.0.0 adv-views.com
-0.0.0.0 adv.vz.ru
 0.0.0.0 advancets.org
 0.0.0.0 advcache.ru
 0.0.0.0 advcake.com
@@ -241,6 +243,7 @@
 0.0.0.0 adversni.com
 0.0.0.0 adversting.riamedia.com.ua
 0.0.0.0 advertise.ru
+0.0.0.0 advertising.ntuplay.xyz
 0.0.0.0 advertland.ru
 0.0.0.0 advertlink.ru
 0.0.0.0 advertmi.ru
@@ -251,7 +254,6 @@
 0.0.0.0 advg.agency
 0.0.0.0 advgame.org
 0.0.0.0 advice.imho.net
-0.0.0.0 advideo.ru
 0.0.0.0 advjump.com
 0.0.0.0 advkino.ru
 0.0.0.0 advland.ru
@@ -259,6 +261,7 @@
 0.0.0.0 advmusic.com
 0.0.0.0 advmusic.net
 0.0.0.0 advrush.com
+0.0.0.0 advscdn.com
 0.0.0.0 advservert.com
 0.0.0.0 advtise.net
 0.0.0.0 advtise.ru
@@ -291,6 +294,7 @@
 0.0.0.0 ahial.top
 0.0.0.0 ahotron.ru
 0.0.0.0 ahyvmx.com
+0.0.0.0 ahzxppktgc.com
 0.0.0.0 aiadvi.com
 0.0.0.0 aidata.io
 0.0.0.0 aif.yadro.ru
@@ -314,7 +318,6 @@
 0.0.0.0 aj2313.online
 0.0.0.0 aj2345.online
 0.0.0.0 aj2392.online
-0.0.0.0 aj2396.online
 0.0.0.0 aj2517.bid
 0.0.0.0 ajaxbig.ru
 0.0.0.0 ajur.info
@@ -326,6 +329,7 @@
 0.0.0.0 akiwi.ru
 0.0.0.0 aksessuarov.ru
 0.0.0.0 akvile.site
+0.0.0.0 al-adtech.com
 0.0.0.0 aleba.ru
 0.0.0.0 alemobile.ru
 0.0.0.0 alfadart.com
@@ -349,6 +353,7 @@
 0.0.0.0 alloffs.ru
 0.0.0.0 allowac.com
 0.0.0.0 allowandgo.link
+0.0.0.0 allroll.biz
 0.0.0.0 alltizer.ru
 0.0.0.0 allvideometrika.com
 0.0.0.0 almosto.com
@@ -386,6 +391,7 @@
 0.0.0.0 api9.net
 0.0.0.0 apirelay.ru
 0.0.0.0 applieda.com
+0.0.0.0 appscriptshark.com
 0.0.0.0 appsflybeta.biz
 0.0.0.0 apreces.com
 0.0.0.0 aprement.com
@@ -617,6 +623,7 @@
 0.0.0.0 belos2nez5hka.ru
 0.0.0.0 belosne6zhka.ru
 0.0.0.0 bench55.me
+0.0.0.0 bepolite.eu
 0.0.0.0 bequri.com
 0.0.0.0 berdent.com
 0.0.0.0 bergfi.com
@@ -703,6 +710,7 @@
 0.0.0.0 bizowutum.com
 0.0.0.0 bjdijegccdfeccejcbb.ru
 0.0.0.0 bjdsfgg.pro
+0.0.0.0 bjiuck.com
 0.0.0.0 bjoxsc.com
 0.0.0.0 bjpwv.com
 0.0.0.0 bk.goodline.info
@@ -826,6 +834,7 @@
 0.0.0.0 btloader.com
 0.0.0.0 buawdshes.ru
 0.0.0.0 bubblenik.com
+0.0.0.0 bubblesmedia.net
 0.0.0.0 buckridge.link
 0.0.0.0 budaicius.com
 0.0.0.0 budrem.club
@@ -833,6 +842,7 @@
 0.0.0.0 bufupacamo.com
 0.0.0.0 buildbull.ru
 0.0.0.0 builthousefor.com
+0.0.0.0 builthuosefor.com
 0.0.0.0 bukhaja.ru
 0.0.0.0 bukolii.ru
 0.0.0.0 bumampaid.club
@@ -944,9 +954,12 @@
 0.0.0.0 ccceegfjfgdggfjeibd.ru
 0.0.0.0 cccpkinocom.ru
 0.0.0.0 cccpkinonet.ru
+0.0.0.0 cchdbond.com
 0.0.0.0 cclaf.top
 0.0.0.0 cclick.ru
 0.0.0.0 ccokeryfilm.services
+0.0.0.0 ccstatic.net
+0.0.0.0 ccsyncuuid.net
 0.0.0.0 cd11cf9055.com
 0.0.0.0 cddn.ru
 0.0.0.0 cdn-bk.ligastavok.ru
@@ -1003,6 +1016,7 @@
 0.0.0.0 chabg.top
 0.0.0.0 chajv.top
 0.0.0.0 championwin.ru
+0.0.0.0 changelifer.biz
 0.0.0.0 chanluu.ru
 0.0.0.0 cheburchik.ru
 0.0.0.0 checke.biz
@@ -1060,6 +1074,7 @@
 0.0.0.0 cldappru.com
 0.0.0.0 cleanernow.info
 0.0.0.0 clhko.top
+0.0.0.0 click-make.com
 0.0.0.0 clickads.name
 0.0.0.0 clickbaza.com
 0.0.0.0 clickcashmoney.com
@@ -1086,7 +1101,6 @@
 0.0.0.0 clmawdd9chhcaii.ru
 0.0.0.0 clme.biz
 0.0.0.0 clme.net
-0.0.0.0 clo.lv
 0.0.0.0 cloakac.com
 0.0.0.0 close7p.com
 0.0.0.0 cloud-tar.ru
@@ -1117,6 +1131,7 @@
 0.0.0.0 cocabollla.site
 0.0.0.0 codata.ru
 0.0.0.0 code.roadvel.ru
+0.0.0.0 codedome.online
 0.0.0.0 codeextrarich.net
 0.0.0.0 codemediarich.ru
 0.0.0.0 codenet.one
@@ -1155,6 +1170,7 @@
 0.0.0.0 contactsin.mobi
 0.0.0.0 contactsin.ru
 0.0.0.0 contema.ru
+0.0.0.0 contemo.ru
 0.0.0.0 contentika.com
 0.0.0.0 conteresse.com
 0.0.0.0 conteresso.com
@@ -1205,6 +1221,7 @@
 0.0.0.0 cpwub.com
 0.0.0.0 cq475kknl7thzf.top
 0.0.0.0 cqhciif9bjtplrc.ru
+0.0.0.0 cr09.biz
 0.0.0.0 crackac.com
 0.0.0.0 craftmine-2.ru
 0.0.0.0 crapka.ru
@@ -1260,6 +1277,7 @@
 0.0.0.0 cutiedomain.com
 0.0.0.0 cutralflibsye.ru
 0.0.0.0 cuys.ru
+0.0.0.0 cuzrfkzwkn.ru
 0.0.0.0 cv46.ru
 0.0.0.0 cvdow.com
 0.0.0.0 cwadpreroll.club
@@ -1324,6 +1342,7 @@
 0.0.0.0 dagecisaxeze.cf
 0.0.0.0 dagradu.ru
 0.0.0.0 dailyview.site
+0.0.0.0 dallworldnews2.store
 0.0.0.0 dalmspb.top
 0.0.0.0 damnetut.ru
 0.0.0.0 damskiy.xyz
@@ -1536,6 +1555,7 @@
 0.0.0.0 dqwlii.com
 0.0.0.0 dqwzhseasq.com
 0.0.0.0 dqzuy.com
+0.0.0.0 dr22.biz
 0.0.0.0 dragpro.ru
 0.0.0.0 dreadfula.ru
 0.0.0.0 dreampartners.ru
@@ -1667,6 +1687,7 @@
 0.0.0.0 ehmqlr.com
 0.0.0.0 ehnejin.ru
 0.0.0.0 ehntqzv1apeizca.ru
+0.0.0.0 ehqaobjhna.com
 0.0.0.0 ehxuonl3adfgxvy.ru
 0.0.0.0 ehzggd.com
 0.0.0.0 ei0mwcgu.com
@@ -1755,6 +1776,7 @@
 0.0.0.0 estetic-club.net
 0.0.0.0 estiques.com
 0.0.0.0 estoniaanna.ru
+0.0.0.0 esuxdqovni.com
 0.0.0.0 et-cod.com
 0.0.0.0 et-land.xyz
 0.0.0.0 et-pu.com
@@ -1958,6 +1980,7 @@
 0.0.0.0 floornotalava.com
 0.0.0.0 flowpubdom.info
 0.0.0.0 flushmviolent.org
+0.0.0.0 flyroll.ru
 0.0.0.0 fm05qrtvoele.pro
 0.0.0.0 fmich.ru
 0.0.0.0 fmk1ezzboz.space
@@ -1966,6 +1989,7 @@
 0.0.0.0 fmu1qrtjoamc.pro
 0.0.0.0 fmu1qrtjoamc.top
 0.0.0.0 fmusive.ru
+0.0.0.0 fnasmpygwa.com
 0.0.0.0 fncdev.in.ua
 0.0.0.0 fne9ez3lpqt.info
 0.0.0.0 fnhffxhnqd.com
@@ -1999,10 +2023,12 @@
 0.0.0.0 foxbitbit.ru
 0.0.0.0 foxylinks.ru
 0.0.0.0 foxyscripts.ru
+0.0.0.0 fpdbccngiujp.com
 0.0.0.0 fperefo.ru
 0.0.0.0 fpmef.com
 0.0.0.0 fpzsdwm6bfkdzvh.ru
 0.0.0.0 fqab5xq7qlgt.info
+0.0.0.0 fqrpcd.com
 0.0.0.0 fqsbi.com
 0.0.0.0 fquqhe.com
 0.0.0.0 fqurmqe6agjyofb.ru
@@ -2029,6 +2055,7 @@
 0.0.0.0 fsibs.top
 0.0.0.0 fstredirr.com
 0.0.0.0 ftd2q1g8id1z.ru
+0.0.0.0 ftkmmc.com
 0.0.0.0 ftphost.ru
 0.0.0.0 ftrnum.club
 0.0.0.0 ftrnwcewum.club
@@ -2089,6 +2116,7 @@
 0.0.0.0 gamerickius.com
 0.0.0.0 gamerynis.com
 0.0.0.0 games-n1.ru
+0.0.0.0 gamescdnfor.com
 0.0.0.0 gameson.site
 0.0.0.0 gamesrotator.com
 0.0.0.0 gamethalyz.top
@@ -2137,6 +2165,7 @@
 0.0.0.0 get-ads.ru
 0.0.0.0 get-hit.ru
 0.0.0.0 get1xzone.com
+0.0.0.0 get2.fun
 0.0.0.0 getelem.ru
 0.0.0.0 getgale.info
 0.0.0.0 getinstant.website
@@ -2257,7 +2286,6 @@
 0.0.0.0 gorenpe.ru
 0.0.0.0 goretnak.pro
 0.0.0.0 gorgasal.co
-0.0.0.0 gorod.tunt.lv
 0.0.0.0 gosj9ichlf.tech
 0.0.0.0 got.by
 0.0.0.0 goto2024.ru
@@ -2267,6 +2295,7 @@
 0.0.0.0 gotriki.com
 0.0.0.0 gottittothin.ru
 0.0.0.0 gotunekst.ru
+0.0.0.0 gotvvk.com
 0.0.0.0 gover.bid
 0.0.0.0 gowapgo.com
 0.0.0.0 goyetteconnelly.bid
@@ -2507,6 +2536,7 @@
 0.0.0.0 i-vengo.com
 0.0.0.0 i3st.ru
 0.0.0.0 i7xdx6p6.space
+0.0.0.0 i8y156.ru
 0.0.0.0 iadv.biz
 0.0.0.0 iafxnv.com
 0.0.0.0 ibakhal.ru
@@ -2558,6 +2588,7 @@
 0.0.0.0 iemieshohx.com
 0.0.0.0 ieuhd.com
 0.0.0.0 iexqhm.com
+0.0.0.0 igbfwa.com
 0.0.0.0 igdaejaadediihbiafc.ru
 0.0.0.0 igetsend.ru
 0.0.0.0 igkek7a2.ga
@@ -2639,6 +2670,8 @@
 0.0.0.0 inferalton.com
 0.0.0.0 info-app.ru
 0.0.0.0 info-app2.ru
+0.0.0.0 info-app3.ru
+0.0.0.0 info-app4.ru
 0.0.0.0 info.howto-news.info
 0.0.0.0 info33.info
 0.0.0.0 info4park.ru
@@ -2653,6 +2686,7 @@
 0.0.0.0 informplel.ru
 0.0.0.0 infortractor.site
 0.0.0.0 inforuss.site
+0.0.0.0 infostuet.com
 0.0.0.0 infowarship.com
 0.0.0.0 infowarship.pages.dev
 0.0.0.0 inghe.biz
@@ -2694,6 +2728,7 @@
 0.0.0.0 ipmarte.ru
 0.0.0.0 ipml-qvr8go.ru
 0.0.0.0 ippcodeblack.com
+0.0.0.0 ippcodered.com
 0.0.0.0 ipqolj.com
 0.0.0.0 iprxfx.com
 0.0.0.0 ipsqh.com
@@ -2712,12 +2747,14 @@
 0.0.0.0 iruyouy.ru
 0.0.0.0 irvizem.ru
 0.0.0.0 is1njb3.ru
-0.0.0.0 ishowyoufuture.com
+0.0.0.0 isbnyzpunkx.com
 0.0.0.0 isinodo.ru
 0.0.0.0 islamclick.ru
+0.0.0.0 ismcxv.com
 0.0.0.0 istcs.top
 0.0.0.0 isterra.ru
 0.0.0.0 istlnkbn.com
+0.0.0.0 istmvh.com
 0.0.0.0 istokiku.ru
 0.0.0.0 istori.site
 0.0.0.0 istunin.ru
@@ -3038,7 +3075,6 @@
 0.0.0.0 kma1.biz
 0.0.0.0 kmabiz.org
 0.0.0.0 kmndj.top
-0.0.0.0 knc.lv
 0.0.0.0 knewy.com
 0.0.0.0 knkqjmjyxzev.info
 0.0.0.0 knowens.com
@@ -3076,6 +3112,7 @@
 0.0.0.0 kpwp7.ru
 0.0.0.0 kpyub.com
 0.0.0.0 kpztl.top
+0.0.0.0 kq6lwk3m9g.ru
 0.0.0.0 krab-studio.ru
 0.0.0.0 krajcik.biz
 0.0.0.0 krasisa.info
@@ -3142,7 +3179,6 @@
 0.0.0.0 ladyzxxyz.com
 0.0.0.0 ladzatsi.ru
 0.0.0.0 lagrobe.ru
-0.0.0.0 laimroll.ru
 0.0.0.0 lamanin.ru
 0.0.0.0 lamason.ru
 0.0.0.0 lanapa.ru
@@ -3207,6 +3243,7 @@
 0.0.0.0 leruanmarket.ru
 0.0.0.0 lethargic-smock.com
 0.0.0.0 letmelook.net
+0.0.0.0 letmenowme.biz
 0.0.0.0 letmeok.com
 0.0.0.0 letodron.ru
 0.0.0.0 letscheckmygeos.com
@@ -3428,6 +3465,7 @@
 0.0.0.0 main-tcod.com
 0.0.0.0 mainclc.com
 0.0.0.0 mainews.ru
+0.0.0.0 mainotter.com
 0.0.0.0 maisyy.com
 0.0.0.0 major-inpp-code.com
 0.0.0.0 major-t-code.com
@@ -3478,6 +3516,7 @@
 0.0.0.0 mcljm.top
 0.0.0.0 mcmetrika.ru
 0.0.0.0 mctqu.com
+0.0.0.0 mcxmke.com
 0.0.0.0 md5s.ru
 0.0.0.0 mdeih.com
 0.0.0.0 mdlo324fsd.ru
@@ -3501,6 +3540,7 @@
 0.0.0.0 media.adrcdn.com
 0.0.0.0 media.kahoxa.ru
 0.0.0.0 mediaboom.site
+0.0.0.0 mediabrama.com
 0.0.0.0 mediacot.com
 0.0.0.0 mediadar.ru
 0.0.0.0 mediadirectory.net
@@ -3611,6 +3651,7 @@
 0.0.0.0 micylvoubx.biz
 0.0.0.0 midlemee.ru
 0.0.0.0 midtuq.com
+0.0.0.0 migineg.com
 0.0.0.0 mikas.win
 0.0.0.0 mikellli.com
 0.0.0.0 mikla.site
@@ -3730,6 +3771,7 @@
 0.0.0.0 mpwxj.com
 0.0.0.0 mqems.us
 0.0.0.0 mqpte.top
+0.0.0.0 mqqrud.com
 0.0.0.0 mquvqdhzgfyjl.com
 0.0.0.0 mqwcuesny6.ru
 0.0.0.0 mrakosy.ru
@@ -3753,6 +3795,7 @@
 0.0.0.0 msyftmtgjf.biz
 0.0.0.0 mt-data.ru
 0.0.0.0 mtdatahaba.rocks
+0.0.0.0 mtrcss.com
 0.0.0.0 mtwbedsl.biz
 0.0.0.0 mubra.ru
 0.0.0.0 muchhetont.ru
@@ -3847,6 +3890,7 @@
 0.0.0.0 na-zdor2.ru
 0.0.0.0 na0z0thlap.com
 0.0.0.0 nacdn.info
+0.0.0.0 nadajotum.com
 0.0.0.0 nalabutenahah.com
 0.0.0.0 nalivaj.ru
 0.0.0.0 namefeedever.online
@@ -4092,6 +4136,7 @@
 0.0.0.0 nzt-news.club
 0.0.0.0 nztrt.top
 0.0.0.0 o0nzlh5ew4.ru
+0.0.0.0 o1qry0qq83.com
 0.0.0.0 o6mmm2q054.ru
 0.0.0.0 oaaty.space
 0.0.0.0 oaovcb.com
@@ -4213,7 +4258,6 @@
 0.0.0.0 oneretarget.com
 0.0.0.0 onerighbutle.ru
 0.0.0.0 onesebab.pro
-0.0.0.0 onetouch8.info
 0.0.0.0 oneund.com
 0.0.0.0 oneund.ru
 0.0.0.0 onfeed.ru
@@ -4360,6 +4404,7 @@
 0.0.0.0 parviz.ehost.tj
 0.0.0.0 pasekerit.ru
 0.0.0.0 pastilon.com
+0.0.0.0 pastrentroom.com
 0.0.0.0 pautina.mobi
 0.0.0.0 payandpray.ru
 0.0.0.0 paybrides.org
@@ -4444,7 +4489,6 @@
 0.0.0.0 play4victory.net
 0.0.0.0 playframe.ru
 0.0.0.0 playjusting.com
-0.0.0.0 playmatic.video
 0.0.0.0 playvulkanonline.net
 0.0.0.0 pldrag.ru
 0.0.0.0 pleasedonotban.ru
@@ -4466,6 +4510,7 @@
 0.0.0.0 pnulice.ru
 0.0.0.0 poblemi.info
 0.0.0.0 podrobnosti-online.com
+0.0.0.0 podruzke.ru
 0.0.0.0 pointclc.com
 0.0.0.0 pointrtb.com
 0.0.0.0 poketall.ru
@@ -4487,10 +4532,13 @@
 0.0.0.0 ponyvod.ru
 0.0.0.0 pool5.info
 0.0.0.0 poollast.com
+0.0.0.0 poolpool.biz
 0.0.0.0 pop-under.ru
 0.0.0.0 popcornews.me
 0.0.0.0 poptyto.ru
 0.0.0.0 popunder-mladnet.medialand.ru
+0.0.0.0 popup.su
+0.0.0.0 popvalcom.com
 0.0.0.0 porhuk.com
 0.0.0.0 porno365ads.info
 0.0.0.0 porno365go.com
@@ -4539,6 +4587,7 @@
 0.0.0.0 prerol.tut.by
 0.0.0.0 presssnews.biz
 0.0.0.0 prf29bk47.ru
+0.0.0.0 prgm.b-cdn.net
 0.0.0.0 prgmh.com
 0.0.0.0 priesty.com
 0.0.0.0 prime-hunage.com
@@ -4559,6 +4608,7 @@
 0.0.0.0 procratre.today
 0.0.0.0 profiledbase.com
 0.0.0.0 profiprobest.ru
+0.0.0.0 programmatica.com
 0.0.0.0 projectpoi.com
 0.0.0.0 proligtb.com
 0.0.0.0 prolinker.ru
@@ -4593,7 +4643,6 @@
 0.0.0.0 protkrutka.ru
 0.0.0.0 protrafv2.com
 0.0.0.0 protyazh.ru
-0.0.0.0 proxy.dlf.lt
 0.0.0.0 proxy4http.appspot.com
 0.0.0.0 prozapas.dn.ua
 0.0.0.0 prp-solnechnyj.ru
@@ -4624,6 +4673,7 @@
 0.0.0.0 puipui.ru
 0.0.0.0 pukchpok.online
 0.0.0.0 purecash.ru
+0.0.0.0 purestairs.com
 0.0.0.0 purige.ru
 0.0.0.0 push.exchange
 0.0.0.0 pushadv.biz
@@ -4701,6 +4751,7 @@
 0.0.0.0 qirnz.com
 0.0.0.0 qitxa.com
 0.0.0.0 qjrkum.com
+0.0.0.0 qkdtat.com
 0.0.0.0 qkeyn.com
 0.0.0.0 qkffv.com
 0.0.0.0 qkrrvc.ru
@@ -4732,7 +4783,6 @@
 0.0.0.0 quqizo.com
 0.0.0.0 qurtol.com
 0.0.0.0 qvol.ru
-0.0.0.0 qvol.tv
 0.0.0.0 qvsaga.com
 0.0.0.0 qvvoom.com
 0.0.0.0 qwertypay.com
@@ -4793,6 +4843,7 @@
 0.0.0.0 rbreal.bid
 0.0.0.0 rbrxg.com
 0.0.0.0 rbt-partner-web.interakt.ru
+0.0.0.0 rbtds.net
 0.0.0.0 rbzyi.com
 0.0.0.0 rc7pf.ru
 0.0.0.0 rcacase.ru
@@ -4907,6 +4958,7 @@
 0.0.0.0 reu1uqtbpqt.info
 0.0.0.0 reu5q.com
 0.0.0.0 reu5q.tech
+0.0.0.0 reu9evxk.top
 0.0.0.0 reunice.com
 0.0.0.0 rew43h2.ru
 0.0.0.0 rewalt.ru
@@ -5152,6 +5204,7 @@
 0.0.0.0 saparaninghin.ru
 0.0.0.0 sapmedia.ru
 0.0.0.0 sar.66.ru
+0.0.0.0 sarafan.fun
 0.0.0.0 sarimsol.com
 0.0.0.0 sawayn.link
 0.0.0.0 saytservis.ru
@@ -5243,6 +5296,7 @@
 0.0.0.0 servicelead.ru
 0.0.0.0 servicelead.top
 0.0.0.0 servized.com
+0.0.0.0 servtodown.ru
 0.0.0.0 servw.bid
 0.0.0.0 sesisurom.com
 0.0.0.0 setads.bid
@@ -5276,6 +5330,7 @@
 0.0.0.0 shimlabi.info
 0.0.0.0 shonretimus.com
 0.0.0.0 shop3784.ru
+0.0.0.0 shopgameslive.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shoptop-24.info
 0.0.0.0 shotad.com
@@ -5298,6 +5353,7 @@
 0.0.0.0 simofor.ru
 0.0.0.0 sinfosi.ru
 0.0.0.0 sionotti.ru
+0.0.0.0 siresuperm.bid
 0.0.0.0 sirokuzo.com
 0.0.0.0 siteme.org
 0.0.0.0 sitewithg.me
@@ -5354,6 +5410,7 @@
 0.0.0.0 smallege.icu
 0.0.0.0 smallel.icu
 0.0.0.0 smalltyan.ru
+0.0.0.0 smarf.icu
 0.0.0.0 smart-tds.info
 0.0.0.0 smartns.cdnvideo.ru
 0.0.0.0 smartzaim.online
@@ -5388,7 +5445,6 @@
 0.0.0.0 snlyjkf3vs.ru
 0.0.0.0 snovimgodomyap.ru
 0.0.0.0 snowgeranium.com
-0.0.0.0 snsv.ru
 0.0.0.0 sobesed.com
 0.0.0.0 sochetat.net
 0.0.0.0 socialnow.site
@@ -5454,6 +5510,7 @@
 0.0.0.0 srtzq.com
 0.0.0.0 srv1.tlt.ru
 0.0.0.0 srv43.ru
+0.0.0.0 srvd2204.com
 0.0.0.0 ssd7.ru
 0.0.0.0 ssliivuqpm.ru
 0.0.0.0 ssso.ru
@@ -5502,6 +5559,7 @@
 0.0.0.0 str99.ru
 0.0.0.0 strannosty.ru
 0.0.0.0 streamingcastle.me
+0.0.0.0 streetuptowind.com.com
 0.0.0.0 striere.com
 0.0.0.0 striete.com
 0.0.0.0 striglusor.com
@@ -5509,6 +5567,7 @@
 0.0.0.0 strucewe.info
 0.0.0.0 sts-bts-td.ru
 0.0.0.0 stsdv.com
+0.0.0.0 stteeruptowind.com
 0.0.0.0 stumtererum.com
 0.0.0.0 styleload.ru
 0.0.0.0 su2lgyoeucscn.ru
@@ -5613,6 +5672,7 @@
 0.0.0.0 takidd.site
 0.0.0.0 takipp.ru
 0.0.0.0 takitdska.ga
+0.0.0.0 talktomeplease.biz
 0.0.0.0 tamerliqus.com
 0.0.0.0 tanlitthisdint.ru
 0.0.0.0 tapnetwork.ru
@@ -5653,6 +5713,7 @@
 0.0.0.0 tdsrmbl.net
 0.0.0.0 tdstorage.site
 0.0.0.0 teachac.com
+0.0.0.0 teachmeiwnd.com
 0.0.0.0 teachmewind.com
 0.0.0.0 tealtan.com
 0.0.0.0 teamrtb.net
@@ -5826,6 +5887,7 @@
 0.0.0.0 tl3fast.com
 0.0.0.0 tldredenter.com
 0.0.0.0 tlr1.biz
+0.0.0.0 tlxjuj.com
 0.0.0.0 tm-79.com
 0.0.0.0 tm46k0ij.ru
 0.0.0.0 tmozs.com
@@ -6074,6 +6136,7 @@
 0.0.0.0 uitrens.ru
 0.0.0.0 ujokee.com
 0.0.0.0 ujoongeilaej.info
+0.0.0.0 ujrigp3vkr.com
 0.0.0.0 ujtjjj.com
 0.0.0.0 ukamer.ru
 0.0.0.0 ukhjac.com
@@ -6089,6 +6152,7 @@
 0.0.0.0 umrefebaot.biz
 0.0.0.0 umwiba.com
 0.0.0.0 unads.ru
+0.0.0.0 unbraceous.men
 0.0.0.0 unclic.ru
 0.0.0.0 under-click.ru
 0.0.0.0 undere.com
@@ -6096,6 +6160,7 @@
 0.0.0.0 undzbe.com
 0.0.0.0 unfeaecmhszmsx.com
 0.0.0.0 unholyrsounds.in
+0.0.0.0 uniads.net
 0.0.0.0 unikuni.com
 0.0.0.0 uniontraff.com
 0.0.0.0 unisound.net
@@ -6268,6 +6333,8 @@
 0.0.0.0 videojuly.ru
 0.0.0.0 videojune.ru
 0.0.0.0 videoleks.com
+0.0.0.0 videolink.site
+0.0.0.0 videolink.space
 0.0.0.0 videonews24.online
 0.0.0.0 videonow.ru
 0.0.0.0 videopotok.pro
@@ -6339,6 +6406,7 @@
 0.0.0.0 viturek.com
 0.0.0.0 viutb.com
 0.0.0.0 viva-vanna.ru
+0.0.0.0 vivacocc.com
 0.0.0.0 vivilonium.com
 0.0.0.0 vjcbm.com
 0.0.0.0 vjqvcl.com
@@ -6375,6 +6443,7 @@
 0.0.0.0 vogozaq.ru
 0.0.0.0 vogozara.ru
 0.0.0.0 vogozita.com
+0.0.0.0 voidnetwork.cloud
 0.0.0.0 voiledu.com
 0.0.0.0 voilek.com
 0.0.0.0 vokayatus.com
@@ -6506,6 +6575,7 @@
 0.0.0.0 wek7ipqx359.ru
 0.0.0.0 welldanius.com
 0.0.0.0 welocnews.info
+0.0.0.0 wepekud.com
 0.0.0.0 werastinus.com
 0.0.0.0 weropiy.com
 0.0.0.0 wertuip.com
@@ -6555,6 +6625,7 @@
 0.0.0.0 wizard-traffstock.com
 0.0.0.0 wizardclick.site
 0.0.0.0 wizardmedia.org
+0.0.0.0 wizmzp.com
 0.0.0.0 wjzvx.com
 0.0.0.0 wkrek.ru
 0.0.0.0 wksym.top
@@ -6646,7 +6717,6 @@
 0.0.0.0 xaxvixamanwka.tk
 0.0.0.0 xb8nuy.ru
 0.0.0.0 xbasfbno.info
-0.0.0.0 xcec.ru
 0.0.0.0 xcufz.top
 0.0.0.0 xdbwoc.com
 0.0.0.0 xdgeph.ru
@@ -6667,6 +6737,7 @@
 0.0.0.0 xg2o402yyy.ru
 0.0.0.0 xguqeh.com
 0.0.0.0 xgwegewd.site
+0.0.0.0 xhivjkfghj.com
 0.0.0.0 xhzspi.com
 0.0.0.0 xicoef.com
 0.0.0.0 xiepl.com
@@ -6894,6 +6965,7 @@
 0.0.0.0 zclpro.com
 0.0.0.0 zcmxa.com
 0.0.0.0 zcode11.me
+0.0.0.0 zcode14.me
 0.0.0.0 zcode5.me
 0.0.0.0 zcode6.me
 0.0.0.0 zcrqsfq.biz
@@ -6930,10 +7002,12 @@
 0.0.0.0 zezvty.com
 0.0.0.0 zfoffp.com
 0.0.0.0 zfsfkp.com
+0.0.0.0 zgnzxm.com
 0.0.0.0 zgvvx.com
 0.0.0.0 zhalobpa.ru
 0.0.0.0 zhastila.ru
 0.0.0.0 zhazha.ru
+0.0.0.0 zhctrack.net
 0.0.0.0 zherva.ru
 0.0.0.0 zhitkise.info
 0.0.0.0 zhkzt.com
@@ -6962,6 +7036,7 @@
 0.0.0.0 zmu1ust0.top
 0.0.0.0 znatokionline.com
 0.0.0.0 znbdr.com
+0.0.0.0 znctrack.net
 0.0.0.0 zne1esxpove.info
 0.0.0.0 znetimi.ru
 0.0.0.0 znewswork.com
@@ -7060,7 +7135,6 @@
 0.0.0.0 wt.lovfot.ru
 0.0.0.0 1k-shop.ru
 0.0.0.0 24onlinesmi.net
-0.0.0.0 24reporter.ru
 0.0.0.0 academyun.ru
 0.0.0.0 act-news.com
 0.0.0.0 adiabetic.ru
@@ -7150,7 +7224,6 @@
 0.0.0.0 igrok.rocks
 0.0.0.0 installpack.net
 0.0.0.0 intoxic.biz
-0.0.0.0 kindblogs.com
 0.0.0.0 kinemathek.ru
 0.0.0.0 kotofotto.ru
 0.0.0.0 lentainform.com
@@ -7183,6 +7256,7 @@
 0.0.0.0 mega-pics-money.ru
 0.0.0.0 money4leads.biz
 0.0.0.0 mosblog24.ru
+0.0.0.0 msetup-partners.com
 0.0.0.0 msetup.pro
 0.0.0.0 mytrk.xyz
 0.0.0.0 mytvblogs.ru
@@ -7264,7 +7338,6 @@
 0.0.0.0 shoko-slim.biz
 0.0.0.0 shop-blogs.org
 0.0.0.0 shopblog.org
-0.0.0.0 show.novostionline.net
 0.0.0.0 smi-inform.ru
 0.0.0.0 smi.pp.ua
 0.0.0.0 smi.today
@@ -7281,7 +7354,6 @@
 0.0.0.0 top-rutor.eu
 0.0.0.0 top-stores.ru
 0.0.0.0 topclicks.club
-0.0.0.0 topnews.novostionline.net
 0.0.0.0 topnews.smi.one
 0.0.0.0 topnews2.ru
 0.0.0.0 tops-blogs.ru

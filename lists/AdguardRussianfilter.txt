@@ -1,6 +1,6 @@
 # AdguardRussianfilter
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/RussianFilter/sections/adservers.txt
-# Last converted - Sun, 09 Jul 2023 12:52:40 +0000
+# Last converted - Sun, 11 Feb 2024 09:23:33 +0000
 #
 
