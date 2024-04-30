@@ -24,4 +24,7 @@
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 tracking.ott.yandex.net
+0.0.0.0 tracker-api.my.com
+0.0.0.0 ip4.tracker-api.my.com
+0.0.0.0 app-analytics-services.com
 #
