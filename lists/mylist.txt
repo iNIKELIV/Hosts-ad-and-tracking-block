@@ -4,9 +4,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 app-measurement.com
 0.0.0.0 crashlyticsreports-pa.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 graph.facebook.com
